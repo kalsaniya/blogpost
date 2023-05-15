@@ -46,6 +46,7 @@ const PostList = () => {
         textAlign: "center",
         border: "1px solid black",
         width: "90%",
+        padding: "25px",
       }}
     >
       <h1>Blog Posts</h1>
