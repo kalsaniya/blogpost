@@ -39,7 +39,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-================================================================================================================================================
+==============================================================================================
 
 ## Introduction:
 The goal of this project was to develop a React application that fetches data from an API and displays it in a list. The application allows users to search for blog posts based on the title or body, sort the posts based on date or title, add new blog posts, and delete existing posts. The project utilized modern web development technologies such as React, Redux, and Redux-thunk middleware to manage the application's state and handle asynchronous API requests.
